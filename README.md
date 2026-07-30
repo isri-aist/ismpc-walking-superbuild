@@ -14,7 +14,7 @@ Usage
 ```bash
 git clone https://github.com/mc-rtc/mc-rtc-superbuild
 cd mc-rtc-superbuild
-git clone git@github.com:isri-aist/ispmc-walking-superbuild extensions/ismpc-walking-superbuild
+git clone git@github.com:isri-aist/ismpc-walking-superbuild extensions/ismpc-walking-superbuild
 cmake --preset relwithdebinfo
 cmake --build --preset relwithdebinfo
 ```
